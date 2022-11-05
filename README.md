@@ -1,0 +1,2 @@
+# MagicHack
+hack
